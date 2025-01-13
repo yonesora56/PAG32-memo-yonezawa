@@ -1,2 +1,3 @@
 # PAG32-memo-yonezawa
-PAG32で聞いたセッションのメモ等
+
+PAG32で聞いたセッションのメモ (mainly Japanese)
